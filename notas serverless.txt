@@ -1,0 +1,7 @@
+npm i vercel -g    instalar vercel 
+
+cmd vercel para desplegar 
+
+
+utf-8 unicode transformation format -8 bit
+
